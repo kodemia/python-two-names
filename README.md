@@ -1,8 +1,5 @@
 # Python 2G
 
 1. @devCharles Charles
-
-
-
-
-6.@IvanRossG
+2. @OsmarDelgado Osmar
+3. @arecvalo-dev Victor
